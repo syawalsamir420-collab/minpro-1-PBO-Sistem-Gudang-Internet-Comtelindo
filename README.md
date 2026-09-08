@@ -55,7 +55,7 @@ berikut screnshoot tampilan menu Gudang Internet Comtelindo yang menyediakan fit
 
 
 
-</h3>B.Tampilan Menu Menambah Barang</h3>
+#B.Tampilan Menu Menambah Barang#
 
 berikut screnshoot tampilan menu Nomor 1 yaitu MeNambah Sebuah Barang contohnya saya disini menambahkahkan barang starlink ada nama barang,kategori,harga, dan Stok barang
 
