@@ -45,5 +45,9 @@ Kalau memilih 6 (Keluar), sistem menampilkan pesan penutup lalu program berhenti
 
 Proses ini terus berulang (looping) kembali ke Menu Utama setiap selesai menjalankan satu menu, sampai pengguna memilih untuk keluar.
 
-<h3>1.3. Dokmentasi Program</h3>
+<h3>3.Dokmentasi Program</h3>
+
+
+<img width="448" height="372" alt="Cuplikan layar 2026-09-08 162354" src="https://github.com/user-attachments/assets/dcd7344d-54f6-4b00-aeaa-96fc5d14aab9" />
+
 
