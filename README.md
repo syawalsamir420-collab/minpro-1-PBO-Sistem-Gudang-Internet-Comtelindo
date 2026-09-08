@@ -61,11 +61,13 @@ berikut screnshoot tampilan menu Nomor 1 yaitu MeNambah Sebuah Barang contohnya 
 
 <img width="485" height="376" alt="Cuplikan layar 2026-09-08 162740" src="https://github.com/user-attachments/assets/d2c62fe8-dd4d-4826-8095-879cd5b014d8" />
 
+
 </h3>C.Tampilan Menu Melihat Barang</h3>
 
 Berikut Screnshoot tampilan Menu Nomor 2 Yaitu Melihat Barang Yang Ada Didalam Gudang Internet Tersebut.
 
 <img width="710" height="412" alt="Cuplikan layar 2026-09-08 163435" src="https://github.com/user-attachments/assets/b5737287-f801-4e00-afef-b6f2914e6e75" />
+
 
 </h3>D.Tampilan Menu Mencari Barang</h3>
 
@@ -73,9 +75,11 @@ berikut screnshoot tampilan menu Nomor 3 yaitu Mencari Sebuah Barang berdasarkan
 
 <img width="711" height="368" alt="Cuplikan layar 2026-09-08 163613" src="https://github.com/user-attachments/assets/ae84bc37-51f9-49cb-9244-d0d2500ea6d8" />
 
+
 </h3>E.Tampilan Menu Update Barang</h3>
 
 berikut screnshoot tampilan menu Nomor 4 yaitu Mengupdate Barang semisalnya Jika ada Barang Yang Menambah Stok Atau Mengurangi Stok Dari Gudang Internet Comtelindo
+
 
 <img width="837" height="295" alt="Cuplikan layar 2026-09-08 164225" src="https://github.com/user-attachments/assets/09ec4a4a-8c06-42ae-8422-942db873474b" />
 
@@ -84,12 +88,14 @@ berikut screnshoot tampilan menu Nomor 4 yaitu Mengupdate Barang semisalnya Jika
 
 berikut screnshoot tampilan menu Nomor 5 yaitu Menghapus Barang semisalnya Jika ada Barang Yang Ingin Dihapus Atau Ada Yang Stock Nya Sudah habis.
 
+
 <img width="666" height="223" alt="Cuplikan layar 2026-09-08 164426" src="https://github.com/user-attachments/assets/5af725f6-5a61-4a3b-821b-d49d69b120e4" />
 
 
 </h3>G.Tampilan Keluar Dari Sistem Gudang</h3>
 
 berikut screnshoot tampilan menu Nomor 6 yaitu Saya Mendanambahkan fitur Keluar karena Jika ada Di sistem kepencet jadi bisa keluar dengan menu ini jadi tidak perlu ribet lagi.
+
 
 <img width="702" height="381" alt="Cuplikan layar 2026-09-08 164602" src="https://github.com/user-attachments/assets/8a8fb5b0-e094-48eb-a206-40e64ea18436" />
 
