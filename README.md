@@ -47,7 +47,20 @@ Proses ini terus berulang (looping) kembali ke Menu Utama setiap selesai menjala
 
 <h3>3.Dokmentasi Program</h3>
 
+A Menu Gudang Internet Comtelindo
 
-<img width="448" height="372" alt="Cuplikan layar 2026-09-08 162354" src="https://github.com/user-attachments/assets/dcd7344d-54f6-4b00-aeaa-96fc5d14aab9" />
+berikut screnshoot tampilan menu Gudang Internet Comtelindo yang menyediakan fitur untuk menambah, melihat, mengubah,menghapus, Dan Keluar. Dari Tampilan Gudang Internet Comtelindo.
+
+<img width="532" height="200" alt="Cuplikan layar 2026-09-08 162830" src="https://github.com/user-attachments/assets/aa230600-5fb3-4361-b5fc-cf26f99a0fad" />
+
+
+B. Tampilan Menu Menambah Barang
+
+<img width="485" height="376" alt="Cuplikan layar 2026-09-08 162740" src="https://github.com/user-attachments/assets/d2c62fe8-dd4d-4826-8095-879cd5b014d8" />
+
+
+ 
+
+
 
 
