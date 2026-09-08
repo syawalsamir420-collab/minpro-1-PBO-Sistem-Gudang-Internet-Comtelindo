@@ -39,9 +39,11 @@ Kalau memilih 3 (Cari Barang berdasarkan ID), pengguna diminta memasukkan ID bar
 
 Kalau memilih 4 (Update Barang), sistem dulu menampilkan daftar semua barang supaya pengguna tahu ID mana yang mau diubah. Setelah ID dimasukkan, sistem menampilkan data lama barang tersebut, lalu meminta input data baru (nama, kategori, harga, stok). Data lama kemudian ditimpa dengan data baru itu.
 
-Kalau memilih 5 (Hapus Barang), sistem juga menampilkan daftar barang dulu, lalu meminta ID barang yang mau dihapus. Sebelum benar-benar dihapus, ada pertanyaan konfirmasi (y/n) supaya tidak salah hapus data. Kalau dijawab "y", barang langsung dihapus dari ArrayList.
+Kalau memilih 5 (Hapus Barang), sistem juga menampilkan daftar barang dulu, lalu meminta ID barang yang mau dihapus. Sebelum benar-benar dihapus, ada pertanyaan konfirmasi (y/n) supaya tidak salah hapus data. Kalau dijawab "y", barang langsung dihapus dari ArrayList yang ada di kode
 
 Kalau memilih 6 (Keluar), sistem menampilkan pesan penutup lalu program berhenti berjalan.
 
 Proses ini terus berulang (looping) kembali ke Menu Utama setiap selesai menjalankan satu menu, sampai pengguna memilih untuk keluar.
+
+<h3>1.3. Dokmentasi Program</h3>
 
