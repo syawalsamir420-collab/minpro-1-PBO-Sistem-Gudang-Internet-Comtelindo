@@ -59,12 +59,14 @@ berikut screnshoot tampilan menu Gudang Internet Comtelindo yang menyediakan fit
 
 berikut screnshoot tampilan menu Nomor 1 yaitu MeNambah Sebuah Barang contohnya saya disini menambahkahkan barang starlink ada nama barang,kategori,harga, dan Stok barang
 
+
 <img width="485" height="376" alt="Cuplikan layar 2026-09-08 162740" src="https://github.com/user-attachments/assets/d2c62fe8-dd4d-4826-8095-879cd5b014d8" />
 
 
 </h3>C.Tampilan Menu Melihat Barang</h3>
 
 Berikut Screnshoot tampilan Menu Nomor 2 Yaitu Melihat Barang Yang Ada Didalam Gudang Internet Tersebut.
+
 
 <img width="710" height="412" alt="Cuplikan layar 2026-09-08 163435" src="https://github.com/user-attachments/assets/b5737287-f801-4e00-afef-b6f2914e6e75" />
 
@@ -73,10 +75,12 @@ Berikut Screnshoot tampilan Menu Nomor 2 Yaitu Melihat Barang Yang Ada Didalam G
 
 berikut screnshoot tampilan menu Nomor 3 yaitu Mencari Sebuah Barang berdasarkan ID Maka nanti akan keluar menu barang,jumlah stok dan lain-lain
 
+
 <img width="711" height="368" alt="Cuplikan layar 2026-09-08 163613" src="https://github.com/user-attachments/assets/ae84bc37-51f9-49cb-9244-d0d2500ea6d8" />
 
 
 </h3>E.Tampilan Menu Update Barang</h3>
+
 
 berikut screnshoot tampilan menu Nomor 4 yaitu Mengupdate Barang semisalnya Jika ada Barang Yang Menambah Stok Atau Mengurangi Stok Dari Gudang Internet Comtelindo
 
@@ -86,6 +90,7 @@ berikut screnshoot tampilan menu Nomor 4 yaitu Mengupdate Barang semisalnya Jika
 
 </h3>F.Tampilan Menghapus Barang</h3>
 
+
 berikut screnshoot tampilan menu Nomor 5 yaitu Menghapus Barang semisalnya Jika ada Barang Yang Ingin Dihapus Atau Ada Yang Stock Nya Sudah habis.
 
 
@@ -93,6 +98,7 @@ berikut screnshoot tampilan menu Nomor 5 yaitu Menghapus Barang semisalnya Jika 
 
 
 </h3>G.Tampilan Keluar Dari Sistem Gudang</h3>
+
 
 berikut screnshoot tampilan menu Nomor 6 yaitu Saya Mendanambahkan fitur Keluar karena Jika ada Di sistem kepencet jadi bisa keluar dengan menu ini jadi tidak perlu ribet lagi.
 
