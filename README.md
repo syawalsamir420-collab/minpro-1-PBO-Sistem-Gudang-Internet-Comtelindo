@@ -1,5 +1,11 @@
 <h1>Gudang Internet Comtelindo</h1>
 
+Nama : Muhammad Syawal Samir
+
+Kelas : B
+
+Nim : 2509116079
+
 <h3>1. Deskripsi Sigkat Program</h3>
 
 Sistem Gudang Internet Comtelindo adalah program Java sederhana berbasis console yang dipakai untuk mengelola data barang atau perangkat di gudang, seperti modem, kabel, router, dan sejenisnya. Program ini pakai ArrayList untuk nyimpan data selama aplikasinya jalan, jadi data akan hilang lagi begitu program ditutup (belum tersimpan permanen ke database atau file).
