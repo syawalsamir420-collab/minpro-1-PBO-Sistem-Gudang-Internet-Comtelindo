@@ -1,10 +1,14 @@
 <h1>Gudang Internet Comtelindo</h1>
 
-Nama : Muhammad Syawal Samir
+## 👤 Identitas
 
-Kelas : B
-
-Nim : 2509116079
+| | |
+|---|---|
+| **Nama** | Muhammad Syawal Samir |
+| **NIM** | 2509116079 |
+| **Kelas** | Sistem Informasi 25'B |
+| **Tema** | Gudang Internet Comtelindo |
+| **Mini Project** | 1 |
 
 <h3>1. Deskripsi Sigkat Program</h3>
 
